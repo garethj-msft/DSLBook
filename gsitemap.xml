@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.google.com/schemas/sitemap/0.84">
+  <url>
+    <loc>http://www.domainspecificdevelopment.com/default.aspx</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2007-05-01</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://www.domainspecificdevelopment.com/Bios/SteveCook.aspx</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2007-05-01</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.domainspecificdevelopment.com/Bios/GarethJones.aspx</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2007-05-01</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.domainspecificdevelopment.com/Bios/StuartKent.aspx</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2007-05-01</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.domainspecificdevelopment.com/Bios/AlanCameronWills.aspx</loc>
+    <changefreq>monthly</changefreq>
+    <lastmod>2007-05-01</lastmod>
+    <priority>0.5</priority>
+  </url>
+</urlset>
