@@ -9,7 +9,7 @@
         <tr>
             <td colspan="4">
                 <h3>
-                    Released June 2007 from <a href="http://www.awprofessional.com/bookstore/product.asp?isbn=0321398203&rl=1">
+                    Released June 2007 from <a href="http://www.informit.com/store/product.aspx?isbn=0321398203">
                         Addison-Wesley Professional</a></h3>
             </td>
         </tr>
