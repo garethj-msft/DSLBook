@@ -2,10 +2,10 @@
 <asp:Content ID="Title" ContentPlaceHolderID="Title" runat="server">Steve Cook</asp:Content>
 <asp:Content ID="MainPageContent" ContentPlaceHolderID="MainPageContent" runat="server"><div>
     <h2>Steve Cook</h2>
-    <p>Steve is an Architect for Visual Studio Ultimate at Microsoft. &nbsp; You can
-        read his blog <a href="http://blogs.msdn.com/stevecook/">here</a>.</p>
-    <p>He is a member of the OMG’s Board of Directors, and a chair of the UML Revision Task Force.
-    </p>
+    <p>
+        In 2013 Steve retired from Microsoft, where he worked for ten years as an architect for Visual Studio.
+        He represented Microsoft at the OMG, leading the development of UML 2.5.
+        He was also a member of the OMG’s Board of Directors and Architecture Board.</p>
     <p>
         He founded the Object-Oriented Programming 
 and Systems Group of the British Computer Society, and the Object Technology 
